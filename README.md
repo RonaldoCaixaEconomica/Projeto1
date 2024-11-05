@@ -26,16 +26,15 @@ O processo de criação no Gamma App é bastante simplificado, permitindo aos us
 
 **Inserimos um Conteúdo ou Prompt**: descrição do conteúdo da apresentação pretendida. Isso foi realizado manualmente, e a IA sugere o conteúdo com base nas palavras-chave ou nas informações fornecidas.
 
-**Geração Automática de Design**: Após a inserção do conteúdo, o Gamma usa IA para gerar automaticamente um design visual otimizado para cada slide, ajustando elementos como fontes, cores, espaçamento e posicionamento dos objetos para criar uma apresentação coesa e visualmente agradável.
+**Geração Automática de Design**: Após a inserção do prompt, o Gamma usa IA para gerar automaticamente um design visual otimizado para cada slide, ajustando elementos como fontes, cores, espaçamento e posicionamento dos objetos para criar uma apresentação coesa e visualmente agradável.
 
 **Refinamento de Detalhes**: O usuário pode refinar o design, ajustar cores, fontes, e outros elementos visuais, ou simplesmente aceitar as sugestões de design feitas pela IA.
 
 **Colaboração e Compartilhamento**: Caso esteja colaborando com outras pessoas, o Gamma permite que múltiplos usuários editem e façam ajustes em tempo real. Depois, a apresentação pode ser compartilhada ou exportada em diversos formatos. ajustando as descrições para criar cenários realistas. 
 
-Em seguida, a apresentação foram refinadas utilizando técnicas de pós-processamento em Python.
 
 ## 🚀 Resultados
-O projeto gerou um esboço de discurso para 5 minutos. A apresentação poderá ser assitidada no site abaixo.
+O projeto gerou um esboço de discurso para 5 minutos. A apresentação poderá ser assitida no site abaixo.
 
 - **https://como-resistir-as-tentaco-000wjaw.gamma.site/**
 
