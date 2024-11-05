@@ -4,9 +4,8 @@
 Esse projeto utiliza IA generativa para criar imagens hiper-realistas de cenários naturais, utilizando a tecnologia da OpenAI DALL·E 2.
 
 ## 🤖 Tecnologias Utilizadas
-- **OpenAI DALL·E 2**: Para a geração de imagens.
-- **Python**: Para a automação e manipulação das imagens.
-- **GitHub Actions**: Para automação do fluxo de trabalho.
+- O **Gamma App**: é uma ferramenta de criação de conteúdo visual que utiliza Inteligência Artificial para ajudar usuários a criar apresentações, slides e designs de maneira rápida e eficiente, de forma intuitiva e acessível. O diferencial do Gamma App é que ele permite a criação de apresentações e designs altamente personalizados e esteticamente apelativos sem a necessidade de habilidades avançadas em design gráfico.
+  
 
 ## 🧐 Processo de Criação
 A primeira etapa consistiu em gerar uma série de imagens utilizando a API da OpenAI, ajustando as descrições para criar cenários realistas. Em seguida, as imagens foram refinadas utilizando técnicas de pós-processamento em Python.
