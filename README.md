@@ -1,4 +1,4 @@
-# Projeto de Geração de Imagens Realistas com IA
+# Projeto de Geração de Slides para Discurso de 5 minutos com IA
 
 ## 📒 Descrição
 Esse projeto utiliza - O **Gamma App**: que é uma ferramenta de criação de conteúdo visual que utiliza Inteligência Artificial para ajudar usuários a criar apresentações, slides e designs de maneira rápida e eficiente, de forma intuitiva e acessível. O diferencial do Gamma App é que ele permite a criação de apresentações e designs altamente personalizados e esteticamente apelativos sem a necessidade de habilidades avançadas em design gráfico.
@@ -26,7 +26,7 @@ O processo de criação no Gamma App é bastante simplificado, permitindo aos us
 
 **Inserimos um Conteúdo ou Prompt**: descrição do conteúdo da apresentação pretendida. Isso foi realizado manualmente, e a IA sugere o conteúdo com base nas palavras-chave ou nas informações fornecidas.
 
-88Geração Automática de Design**: Após a inserção do conteúdo, o Gamma usa IA para gerar automaticamente um design visual otimizado para cada slide, ajustando elementos como fontes, cores, espaçamento e posicionamento dos objetos para criar uma apresentação coesa e visualmente agradável.
+**Geração Automática de Design**: Após a inserção do conteúdo, o Gamma usa IA para gerar automaticamente um design visual otimizado para cada slide, ajustando elementos como fontes, cores, espaçamento e posicionamento dos objetos para criar uma apresentação coesa e visualmente agradável.
 
 **Refinamento de Detalhes**: O usuário pode refinar o design, ajustar cores, fontes, e outros elementos visuais, ou simplesmente aceitar as sugestões de design feitas pela IA.
 
