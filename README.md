@@ -35,7 +35,9 @@ O processo de criação no Gamma App é bastante simplificado, permitindo aos us
 Em seguida, a apresentação foram refinadas utilizando técnicas de pós-processamento em Python.
 
 ## 🚀 Resultados
-O projeto gerou um esboço de discurso para 5 minutos. O código fonte e as imagens estão disponíveis neste repositório.
+O projeto gerou um esboço de discurso para 5 minutos. A apresentação poderá ser assitidada no site abaixo.
+
+- **https://como-resistir-as-tentaco-000wjaw.gamma.site/**
 
 ## 💭 Reflexão (Opcional)
 O Gamma App é uma ferramenta poderosa que alavanca IA generativa para ajudar usuários a criar apresentações e conteúdos visuais com facilidade, sem a necessidade de habilidades avançadas em design gráfico. A empresa por trás dessa ferramenta, Gamma, está aproveitando tecnologias modernas como IA, machine learning, e ferramentas de design automatizadas para revolucionar o processo criativo e permitir uma criação mais rápida e eficiente de conteúdos visuais.
